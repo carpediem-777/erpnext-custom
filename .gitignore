@@ -21,3 +21,5 @@ node_modules/
 .aider*
 .cursorrules
 tools
+venv
+venv/pyvenv.cfg
